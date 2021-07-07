@@ -1,4 +1,4 @@
-# USACO-Solutions
-Solutions (Python and C++) for various problems in the USACO training website as well as contests. Feel free to look at them but please do not copy them, learn from the logic and implement in your own original code.
+# Competitive Programming
+This a catalog of some competitive programming practice I have done. Included are solutions and occasional explanations for problems on USACO and Codeforces, and other contests written mainly in C++ with some earlier solutions in Python. In addition you can find my C++ template and some example prewritten algorithms as well. Feel free to browse around, comments/questions welcome and stars/forks appreciated.
 
-Update: All programs are accepted solutions now
+~William Zhang
